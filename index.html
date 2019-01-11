@@ -8,10 +8,10 @@ title: 我的Blog
 　　<p>最新文章</p>
 
 　　<ul>
-{{ site.baseurl }}
 
-{{ post.url }}
 　　　　{% for post in site.posts %}
+{{ site.baseurl }}
+{{ post.url }}
 
 　　　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 
