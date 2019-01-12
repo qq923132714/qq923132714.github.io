@@ -33,7 +33,7 @@ BusyBox 是款整合了多种常用linux命令和工具的应用程序。BusyBox
 ## 下载地址见文末
 
 # 支持原创
-## 码文不易，希望支持，谢谢->**[支持原创]({{ '/_posts/images/2019-01-12-关于鼓励作者.md' | prepend: site.baseurl  }})**
+## 码文不易，希望支持，谢谢->**[支持原创]({{ '/_posts/2019-01-12-关于鼓励作者.md' | prepend: site.baseurl  }})**
 ![微信支付](https://raw.githubusercontent.com/923132714/my_picture/master/blog/support/weixin.png)![微信支付](https://raw.githubusercontent.com/923132714/my_picture/master/blog/support/支付宝.png)
 ## 再次感谢，大家对本人的支持。
 
