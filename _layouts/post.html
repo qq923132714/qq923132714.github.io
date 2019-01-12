@@ -21,7 +21,9 @@ layout: default
             </header>
             <article class="post-content">
               {{ content }}
-		{% include support_foot.md %}
+			  {% capture my_include %}{% include support_foot.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
 
             </article>
         </div>
