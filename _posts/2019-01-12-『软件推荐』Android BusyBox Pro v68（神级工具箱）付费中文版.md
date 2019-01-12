@@ -12,7 +12,7 @@ tag: 安卓
 * content
 {:toc}
 
-# 安卓资源分享目录 
+# 安卓资源分享目录 {#prepare}
 
 > [安卓资源分享目录](https://blog.csdn.net/qq923132714/article/details/83059823 "安卓资源分享目录")
 
