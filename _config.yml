@@ -11,7 +11,7 @@ meta_description: meta_description个人博客;学而不思则罔;思而不学�
 motto: ParadoxW
 banner: 学而不思则罔，思而不学则殆。
 
-permalink: /:categories/:year/:title/:month/:day/
+permalink: /:categories/:title/:year/:month/:day/
 #permalink: /:year/:month/:day/:title/
 paginate: 10
 
