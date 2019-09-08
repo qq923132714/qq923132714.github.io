@@ -5,11 +5,11 @@ author: ParadoxW
 url: url
 resume_site: resume_site
 github: github
-description: description Actually, less is more!
+description: Actually, less is more!
 meta_description: meta_description个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 # 头部文案
-motto: motto
-banner: banner 学而不思则罔，思而不学则殆。
+motto: ParadoxW
+banner: 学而不思则罔，思而不学则殆。
 
 permalink: /:categories/:year/:title/:month/:day/
 #permalink: /:year/:month/:day/:title/
